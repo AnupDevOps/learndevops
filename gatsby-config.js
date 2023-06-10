@@ -8,6 +8,7 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
+  pathPrefix: "/learndevops",
   siteMetadata:{
     title: 'DevSupportOps',
     description: 'WebSite to support DevOps JobSupport'
